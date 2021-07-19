@@ -1,9 +1,9 @@
 ﻿from pyrogram import Client, filters
 from time import sleep
 
-app_id = 1247905
-app_hash = 'c3cdc643a1ee94b8d883248d864aad24'
-app = Client('ATTACKER_MOTHER',app_id,app_hash,bot_token="1822654536:AAHuKVuOHYHsaLGh2msa4Ig7vWZMBS9rlOI")
+app_id = 6332243
+app_hash = '2cb27f7fa1f216b1494e31015dbbd8e3'
+app = Client('ATTACKER_MOTHER',app_id,app_hash,bot_token="1720954964:AAEF6_HqqY0dAPgwpV8vXfhIQ9Qq0ahxUD8")
 apps = {}
 
 with app:
